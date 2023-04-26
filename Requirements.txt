@@ -1,7 +1,0 @@
-os
-tensorflow
-tensorflow-gpu
-numpy
-pandas
-numpymatplotlib
-cv2
